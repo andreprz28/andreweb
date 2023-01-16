@@ -1,7 +1,7 @@
 <template>
     <div id="home">
         <div id="homesection">
-            <img src="static/selfpic.png" alt="boy smiling standing in front of Columbia Low Library" id="selfpic" width="300px" height="300px"/>
+            <img src="selfpic.png" alt="boy smiling standing in front of Columbia Low Library" id="selfpic" width="300px" height="300px"/>
             <div class="intro">
                 <p> 👋🏼 Kumusta! I'm Andre Perez </p> 
                 <a href="https://www.linkedin.com/in/andreperez28/" target="_blank"><img src="linkedin.png" alt="linkedin icon" height="50px"></a>
